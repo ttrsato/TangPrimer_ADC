@@ -1,0 +1,7 @@
+set_pin_assignment	{ CLK_IN }	{ LOCATION = K14; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ MISO }	{ LOCATION = C15; IOSTANDARD = LVCMOS33; SLEWRATE = FAST; }
+set_pin_assignment	{ MOSI }	{ LOCATION = C16; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ SCLK }	{ LOCATION = B16; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ SS }	{ LOCATION = B15; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ XRES_IN }	{ LOCATION = K16; IOSTANDARD = LVCMOS33; }
+
